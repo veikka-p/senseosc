@@ -1,7 +1,7 @@
 # SenseOSC
 
 [SenseOSC Server](https://github.com/veikka-p/senseosc-server)
-[SenseOSC Server](https://github.com/veikka-p/senseosc-client)
+[SenseOSC Client](https://github.com/veikka-p/senseosc-client)
 
 ## Table of Contents
 
