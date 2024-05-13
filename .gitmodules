@@ -1,0 +1,6 @@
+[submodule "senseosc-client"]
+	path = senseosc-client
+	url = git@github.com:veikka-p/senseosc-client.git
+[submodule "senseosc-server"]
+	path = senseosc-server
+	url = git@github.com:veikka-p/senseosc-server.git
