@@ -87,6 +87,28 @@ If you have a suggestion that would make this better, please fork the repo and c
 4. Push to the Branch (`git push origin feature/Feature`)
 5. Open a Pull Request
 
+### Environment variables
+
+``` 
+NAME=senseosc
+VERSION=1.0.0
+RELEASE=1
+
+# WIN
+# win-x64
+
+# MAC
+# osx-x64
+# osx-arm64
+
+
+# LINUX
+# linux-x64
+# linux-arm
+
+RID=osx-arm64
+```
+
 ## License
 
 UNLICENSED
